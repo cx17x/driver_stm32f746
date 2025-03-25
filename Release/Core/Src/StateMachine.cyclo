@@ -1,0 +1,4 @@
+StateMachine.cpp:11:1:StateMachine::StateMachine(TIM_HandleTypeDef*)	1
+StateMachine.cpp:31:6:void StateMachine::update_timer_value()	5
+StateMachine.cpp:16:6:void StateMachine::change_state(uint8_t)	2
+StateMachine.cpp:48:14:ProgramState StateMachine::get_current_state() const	1

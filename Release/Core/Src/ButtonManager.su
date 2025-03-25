@@ -1,0 +1,4 @@
+../Core/Src/ButtonManager.cpp:3:16:static ButtonManager& ButtonManager::instance()	8	static
+../Core/Src/ButtonManager.cpp:8:6:void ButtonManager::addButton(int, const char*, lv_coord_t, lv_coord_t, lv_event_cb_t)	48	static
+../Core/Src/ButtonManager.cpp:12:1:ButtonManager::~ButtonManager()	16	static
+../Core/Src/ButtonManager.cpp:4:26:void __tcf_0()	0	static

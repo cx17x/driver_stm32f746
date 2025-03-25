@@ -1,0 +1,5 @@
+lv_port_disp.c:167:13:disp_flush	3
+lv_port_disp.c:53:6:lv_port_disp_init	1
+lv_port_disp.c:149:6:disp_enable_update	1
+lv_port_disp.c:156:6:disp_disable_update	1
+lv_port_disp.c:160:6:put_px	1

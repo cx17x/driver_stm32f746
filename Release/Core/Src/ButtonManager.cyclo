@@ -1,0 +1,4 @@
+ButtonManager.cpp:3:16:static ButtonManager& ButtonManager::instance()	3
+ButtonManager.cpp:8:6:void ButtonManager::addButton(int, const char*, lv_coord_t, lv_coord_t, lv_event_cb_t)	1
+ButtonManager.cpp:12:1:ButtonManager::~ButtonManager()	3
+ButtonManager.cpp:4:26:void __tcf_0()	1

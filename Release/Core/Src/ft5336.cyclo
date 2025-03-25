@@ -1,0 +1,13 @@
+ft5336.c:166:6:ft5336_Reset	1
+ft5336.c:412:9:ft5336_TS_ITStatus	1
+ft5336.c:227:9:ft5336_TS_DetectTouch	2
+ft5336.c:259:6:ft5336_TS_GetXY	3
+ft5336.c:150:6:ft5336_Init	2
+ft5336.c:380:6:ft5336_TS_EnableIT	1
+ft5336.c:395:6:ft5336_TS_DisableIT	1
+ft5336.c:210:6:ft5336_TS_Start	1
+ft5336.c:425:6:ft5336_TS_ClearIT	1
+ft5336.c:178:10:ft5336_ReadID	4
+ft5336.c:139:9:FT5336_ReadByte	1
+ft5336.c:440:6:ft5336_TS_GetGestureID	1
+ft5336.c:464:6:ft5336_TS_GetTouchInfo	3

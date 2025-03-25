@@ -1,0 +1,8 @@
+../Core/Src/main.cpp:78:6:void btn_event_handler(lv_event_t*)	8	static
+../Core/Src/main.cpp:73:6:void send_string(const char*)	16	static
+../Core/Src/main.cpp:122:6:void create_buttons()	16	static
+../Core/Src/main.cpp:211:6:void SystemClock_Config()	88	static
+../Core/Src/main.cpp:263:6:void PeriphCommonClock_Config()	144	static
+../Core/Src/main.cpp:135:5:int main()	160	static,ignoring_inline_asm
+../Core/Src/main.cpp:660:6:void Error_Handler()	0	static
+../Core/Src/main.cpp:664:1:cpp)	0	static

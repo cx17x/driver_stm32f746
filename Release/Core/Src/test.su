@@ -1,0 +1,2 @@
+../Core/Src/test.cpp:4:1:Test::Test(UART_HandleTypeDef*)	0	static
+../Core/Src/test.cpp:6:6:void Test::send_string(const char*)	16	static

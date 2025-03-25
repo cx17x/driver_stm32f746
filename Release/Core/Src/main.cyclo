@@ -1,0 +1,8 @@
+main.cpp:78:6:void btn_event_handler(lv_event_t*)	6
+main.cpp:73:6:void send_string(const char*)	1
+main.cpp:122:6:void create_buttons()	1
+main.cpp:211:6:void SystemClock_Config()	1
+main.cpp:263:6:void PeriphCommonClock_Config()	1
+main.cpp:135:5:int main()	3
+main.cpp:660:6:void Error_Handler()	1
+main.cpp:664:1:cpp)	1
